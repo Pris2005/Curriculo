@@ -1,2 +1,2 @@
-Meu currículo em apenas HTML.
-Feito para praticar a linguagem de marcação de hipertexto.
+Meu currículo em apenas HTML e outro em HTML e CSS. <br>
+Feito para praticar as linguagens de marcação de hipertexto e de estilo.
