@@ -1,0 +1,74 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+    /* HEADER */
+header {
+    background-color: #070926;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0%;
+}
+
+header a {
+    color: #fff;
+    text-decoration: none;
+}
+
+h1 {
+    margin-bottom: 0%;
+}
+
+h2{
+    margin-top:  1%;
+}
+
+#minhaFoto {
+    border-radius: 100%;
+    display: block;
+    width: 250px;
+}
+
+.dadosPessoais {
+    margin-left: 5%;
+}
+
+address{
+    line-height: 2.2;
+}
+
+address img {
+    width: 20px;
+    margin-right: 4%;
+    justify-content: center;
+}
+
+    /* MAIN */
+main {
+    padding: 3%;
+    margin-right: 5%;
+}
+
+hr {
+    border: 1.5px solid #070926;
+}
+
+    /* FOOTER */
+footer {
+    background-color: #070926;
+    color: #fff;
+    padding: 3%;
+}
+
+ul {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px 10px;                 
+    margin-left: 3%;
+}
+
+ul li::marker {
+    color: #A979D9;  
+    font-size: 20px;
+}
